@@ -51,7 +51,7 @@ header {
     background-position: center;
     background-size: cover;
     position: relative;
-    background-color: rgb(202, 157, 202);
+    background-color: rgb(165, 105, 165);
     padding-top: 5%;
 }
 
@@ -217,7 +217,7 @@ footer h4 {
     main {
         min-height: 100vh;
         width: 100%;
-        background-image: linear-gradient( rgba(7, 2, 34, 0.5), rgba(7, 2, 34, 0.5)), url("images/000.png");
+        background-image: linear-gradient( rgba(7, 2, 34, 0.5), rgba(7, 2, 34, 0.5)), url("images/fb.png");
         background-position: center;
         background-size: cover;
         position: relative;
